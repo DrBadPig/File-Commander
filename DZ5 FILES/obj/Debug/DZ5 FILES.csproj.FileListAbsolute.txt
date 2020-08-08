@@ -1,0 +1,11 @@
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\bin\Debug\DZ5 FILES.exe.config
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\bin\Debug\DZ5 FILES.exe
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\bin\Debug\DZ5 FILES.pdb
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\obj\Debug\DZ5 FILES.csprojAssemblyReference.cache
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\obj\Debug\DZ5_FILES.Form1.resources
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\obj\Debug\DZ5_FILES.Properties.Resources.resources
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\obj\Debug\DZ5 FILES.csproj.GenerateResource.cache
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\obj\Debug\DZ5 FILES.csproj.CoreCompileInputs.cache
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\obj\Debug\DZ5 FILES.exe
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\obj\Debug\DZ5 FILES.pdb
+E:\VS Projects\Windows Forms\DZ5 FILES\DZ5 FILES\obj\Debug\DZ5_FILES.Form2.resources
