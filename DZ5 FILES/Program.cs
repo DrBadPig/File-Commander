@@ -15,6 +15,7 @@ namespace DZ5_FILES
         static void Main()
         {
             Application.EnableVisualStyles();
+            ssss
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
